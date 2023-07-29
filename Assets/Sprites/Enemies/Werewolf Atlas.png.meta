@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 8dc2ee636500e7e4c805c6c9e0b88f29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Werewolf Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1133
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf72cab15cb58241a4f3f57e75885fa
+      internalID: 1602194197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1139
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d22addbbb84b46ae8c7ace498b66e
+      internalID: 709398436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1127
+        width: 144
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ad9e54a55ca34fada7387000b00f9
+      internalID: -1739026876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 934
+        width: 137
+        height: 173
+      alignment: 9
+      pivot: {x: 0.320003, y: 0.036636617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517ea9d1e742074cac9e0ec87854638
+      internalID: 1428981308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 934
+        width: 156
+        height: 173
+      alignment: 9
+      pivot: {x: 0.320003, y: 0.03663662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec65c20b76275e44bda75c010081be1
+      internalID: -769279900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 934
+        width: 168
+        height: 173
+      alignment: 9
+      pivot: {x: 0.32000297, y: 0.03663662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f37d6dfe01ba4f8015004dcc034ed
+      internalID: 875495492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 935
+        width: 163
+        height: 173
+      alignment: 9
+      pivot: {x: 0.320003, y: 0.03663662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157608e9eeac3047a459c80fac30ca1
+      internalID: -1207911563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 179
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34009c62f0f864447a0a8fc6f75888ce
+      internalID: 1103030876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 539
+        width: 158
+        height: 163
+      alignment: 9
+      pivot: {x: 0.19087191, y: 0.013646038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fe12725ea9bd449cece21a2329daa
+      internalID: -1450781145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 539
+        width: 160
+        height: 163
+      alignment: 9
+      pivot: {x: 0.18603297, y: 0.012306634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f0f5b49f76434388d28addcf71f2a
+      internalID: 2127003050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 539
+        width: 158
+        height: 163
+      alignment: 9
+      pivot: {x: 0.18921787, y: 0.014579539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae360b0013246cc4690f294e361913e5
+      internalID: -1172709682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 539
+        width: 167
+        height: 163
+      alignment: 9
+      pivot: {x: 0.23698379, y: 0.012976149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aeaab11de545b439be0d248a913237
+      internalID: -1934656567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 538
+        width: 169
+        height: 164
+      alignment: 9
+      pivot: {x: 0.22541727, y: 0.020060098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d535e57f77594a43a784cf90e3ed116
+      internalID: 195164699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 539
+        width: 158
+        height: 163
+      alignment: 9
+      pivot: {x: 0.19252574, y: 0.012306634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660cac0ffcd9164d816a8909a7d839a
+      internalID: -1088596531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 539
+        width: 161
+        height: 169
+      alignment: 9
+      pivot: {x: 0.21895926, y: 0.013279661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9428bb25a634541448a08cded9469b11
+      internalID: 494415606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 539
+        width: 158
+        height: 163
+      alignment: 9
+      pivot: {x: 0.19460325, y: 0.012959673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273582f93f70a24e9d1c85c7c97ea3d
+      internalID: 482692915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 323
+        width: 160
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21336465, y: 0.058198906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10664d3a7314c6458159eedd89b932b
+      internalID: 1135284004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 323
+        width: 157
+        height: 162
+      alignment: 9
+      pivot: {x: 0.19937465, y: 0.058639336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfdaf5cf88ee042ad80d6153ffb961
+      internalID: -2009374206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 323
+        width: 158
+        height: 162
+      alignment: 9
+      pivot: {x: 0.19872814, y: 0.059034936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e24aeb8d392046a991d2cb655eddc
+      internalID: -1952302064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 331
+        width: 228
+        height: 162
+      alignment: 9
+      pivot: {x: 0.14821184, y: 0.0710031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147a07be3aeada448b6168f6ce3a506
+      internalID: 1541890813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 333
+        width: 225
+        height: 157
+      alignment: 9
+      pivot: {x: 0.15300944, y: 0.04201804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c445b9ce75558429445facaa0f4572
+      internalID: -1031398441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 323
+        width: 243
+        height: 165
+      alignment: 9
+      pivot: {x: 0.19412747, y: 0.058952563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ce0ceb475a9349bee672291da0993
+      internalID: -940967968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 330
+        width: 287
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5658397, y: 0.015441692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f2a2b478fd1942bd42d8d40be014f
+      internalID: 138724570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 329
+        width: 263
+        height: 153
+      alignment: 9
+      pivot: {x: 0.58123016, y: 0.025478587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a812aaad50a90164cb4b1c1fa4f794f1
+      internalID: -113335823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 329
+        width: 201
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4513802, y: 0.0235857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7525e8ea7ca142b638ea583137d20
+      internalID: -2023732032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 330
+        width: 183
+        height: 149
+      alignment: 9
+      pivot: {x: 0.3596992, y: 0.017452778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717ba94ddb656142a42bc0cf57bf666
+      internalID: -271147836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 199
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da6ebb0fda10e4bb7f668522144da6
+      internalID: -640921452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf62ab717abe44cb73697b8c8d6bae
+      internalID: -1306082936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 204
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6b6268253c9942a8ea13bcffc1712
+      internalID: 776688035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 203
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cda92e83bb5b478110c6e7e6cc12c
+      internalID: -1809547210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 203
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0603eae473981674db674c27c01a0b29
+      internalID: 757754578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24768f501764874ebc9e7574820a5ca
+      internalID: 768068896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e2a8ab1191df48ad25dde2ff6ff8a
+      internalID: -955334339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 165
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438be08d0307464aa793b10e94d32cb
+      internalID: -479839751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be3f339fa54744f9c2909ea950acc4
+      internalID: 1078047603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 157
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10f570b6c5b3440b43cfea1c9d1bf2
+      internalID: -65851648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 161
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf23d92bd157c44b01d4e800d71821
+      internalID: 1183513496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 7
+        width: 149
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd7e3a42c9b5d499299bf56f723cc4
+      internalID: -134377775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5da354074988942baa2740b1b30cd5
+      internalID: 1519562187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc461821efa12e49826476b65b008ac
+      internalID: 1725241080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497826f4e90b534dab2cbb96e992dc3
+      internalID: 912599515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 124
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de07a7a4ace8a429b644c980c399c1
+      internalID: 1514910215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 220
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c874b59c0c0644be9a41bc973e0ba
+      internalID: -1251732628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 228
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c158b0b332af34c8039fb24b5b55a1
+      internalID: -318705695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41df74118a6f84d8e80336d298cfa1
+      internalID: 89688442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e2d19a03092841acc5bd62778c063
+      internalID: 418644668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da212d06e12b327428c193d539e6175c
+      internalID: -745718202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 220
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ff3345eab66a49836fc07440a1c03
+      internalID: 1652819072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 82
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa6748aaeecc74d8b334b288aa1294
+      internalID: -572869053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 27
+        width: 199
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e55eb2c141724198b267e6c7f75e2
+      internalID: 886889374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 76
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b9bbbb3975cb74c87d3cd627b5057b
+      internalID: 1731853833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85cde5770be4e45a8ee4aed0aca279
+      internalID: 17349426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 41
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e0bf1f10d08df4da56359b7ce9451a
+      internalID: 992962781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d1c51eb5839c429fa953c77301dcb
+      internalID: -116883531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 35
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5ac7036c220c4c9ba033da5dfb781
+      internalID: -393723401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da390b35fc805242ab5e635432f7d8e
+      internalID: 1148869149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8b8a644194f3478110839f8ad5d35
+      internalID: -1501239547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52adec287914741841df78e481454b
+      internalID: -1081184938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b991f90e394b49a8844ed70696164
+      internalID: 1608863745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67efe8183f6b8479e9545dff95e64f
+      internalID: -1427081089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f830e1cfcb1424fae2a08d84f1dd8b
+      internalID: 2089818427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0dd470bcf51940bbe5b002248ba4b
+      internalID: -493160688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793bd9798a131a34ca28eb902e7c9308
+      internalID: 703069037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731faa9c51a166444b92715485fea2d1
+      internalID: 281980818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7acbc470f4f4394292f16bc7234bb42
+      internalID: -1279978118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a6af3cc768924eb915a341f481ceb
+      internalID: -881769489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ccd3cf3aed1014eae9b20c5a0638d5
+      internalID: -338761942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71022981f4c4134b9d625bbadbc3e8c
+      internalID: -910577642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691f2b5ae368cd4582cefd3fa2648c5
+      internalID: 1399399846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42475e903aecf47b65e687e547b617
+      internalID: 540551889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64956589b04247f4983e58da04c67033
+      internalID: -357175704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Werewolf Atlas_0: -502727711
+      Werewolf Atlas_1: 1602194197
+      Werewolf Atlas_10: 1428981308
+      Werewolf Atlas_100: 138724570
+      Werewolf Atlas_101: -113335823
+      Werewolf Atlas_102: -935026081
+      Werewolf Atlas_103: -2023732032
+      Werewolf Atlas_104: 523715675
+      Werewolf Atlas_105: -271147836
+      Werewolf Atlas_106: -747988756
+      Werewolf Atlas_107: -280868230
+      Werewolf Atlas_108: 294583209
+      Werewolf Atlas_109: 695890745
+      Werewolf Atlas_11: 1681459373
+      Werewolf Atlas_110: 893403765
+      Werewolf Atlas_111: 1154857717
+      Werewolf Atlas_112: 42355132
+      Werewolf Atlas_113: -566643504
+      Werewolf Atlas_114: 389964103
+      Werewolf Atlas_115: -1309602298
+      Werewolf Atlas_116: -1371911790
+      Werewolf Atlas_117: -1733982194
+      Werewolf Atlas_118: -2122634037
+      Werewolf Atlas_119: -433685580
+      Werewolf Atlas_12: -769279900
+      Werewolf Atlas_120: -1845016506
+      Werewolf Atlas_121: 1277672548
+      Werewolf Atlas_122: 2110232409
+      Werewolf Atlas_123: -1168362088
+      Werewolf Atlas_124: -1917097486
+      Werewolf Atlas_125: 1431120326
+      Werewolf Atlas_126: -2031614525
+      Werewolf Atlas_127: -397568748
+      Werewolf Atlas_128: -1701074397
+      Werewolf Atlas_129: 1535623098
+      Werewolf Atlas_13: 875495492
+      Werewolf Atlas_130: -1738609213
+      Werewolf Atlas_131: 1124279847
+      Werewolf Atlas_132: 1737309349
+      Werewolf Atlas_133: -1799859902
+      Werewolf Atlas_134: -1988614197
+      Werewolf Atlas_135: -640921452
+      Werewolf Atlas_136: -1306082936
+      Werewolf Atlas_137: 776688035
+      Werewolf Atlas_138: -1809547210
+      Werewolf Atlas_139: 757754578
+      Werewolf Atlas_14: -790628007
+      Werewolf Atlas_140: 768068896
+      Werewolf Atlas_141: -955334339
+      Werewolf Atlas_142: -479839751
+      Werewolf Atlas_143: 1078047603
+      Werewolf Atlas_144: -65851648
+      Werewolf Atlas_145: 1183513496
+      Werewolf Atlas_146: -134377775
+      Werewolf Atlas_147: 1519562187
+      Werewolf Atlas_148: 1725241080
+      Werewolf Atlas_149: 912599515
+      Werewolf Atlas_15: -1207911563
+      Werewolf Atlas_150: 1514910215
+      Werewolf Atlas_151: -1251732628
+      Werewolf Atlas_152: -318705695
+      Werewolf Atlas_153: 89688442
+      Werewolf Atlas_154: 418644668
+      Werewolf Atlas_155: -745718202
+      Werewolf Atlas_156: 1652819072
+      Werewolf Atlas_157: -572869053
+      Werewolf Atlas_158: 886889374
+      Werewolf Atlas_159: 1731853833
+      Werewolf Atlas_16: 1667915187
+      Werewolf Atlas_160: 17349426
+      Werewolf Atlas_161: 992962781
+      Werewolf Atlas_162: -116883531
+      Werewolf Atlas_163: -393723401
+      Werewolf Atlas_164: 1148869149
+      Werewolf Atlas_165: -1501239547
+      Werewolf Atlas_166: -1081184938
+      Werewolf Atlas_167: 1608863745
+      Werewolf Atlas_168: -1427081089
+      Werewolf Atlas_169: 2089818427
+      Werewolf Atlas_17: -645026246
+      Werewolf Atlas_170: -493160688
+      Werewolf Atlas_171: 703069037
+      Werewolf Atlas_172: 281980818
+      Werewolf Atlas_173: -1279978118
+      Werewolf Atlas_174: -881769489
+      Werewolf Atlas_175: -338761942
+      Werewolf Atlas_176: -910577642
+      Werewolf Atlas_177: 1399399846
+      Werewolf Atlas_178: 540551889
+      Werewolf Atlas_179: -357175704
+      Werewolf Atlas_18: -876582036
+      Werewolf Atlas_19: -1454575325
+      Werewolf Atlas_2: 709398436
+      Werewolf Atlas_20: -1077673480
+      Werewolf Atlas_21: 12401214
+      Werewolf Atlas_22: 1103030876
+      Werewolf Atlas_23: 740385609
+      Werewolf Atlas_24: 2111126995
+      Werewolf Atlas_25: 669926643
+      Werewolf Atlas_26: 1569858071
+      Werewolf Atlas_27: 1693719538
+      Werewolf Atlas_28: 880863356
+      Werewolf Atlas_29: 1877639452
+      Werewolf Atlas_3: -1739026876
+      Werewolf Atlas_30: -2046963437
+      Werewolf Atlas_31: 177602617
+      Werewolf Atlas_32: -115014760
+      Werewolf Atlas_33: -1374372814
+      Werewolf Atlas_34: 959100518
+      Werewolf Atlas_35: 1698939283
+      Werewolf Atlas_36: 1446362367
+      Werewolf Atlas_37: 79557691
+      Werewolf Atlas_38: 2083867496
+      Werewolf Atlas_39: -1450781145
+      Werewolf Atlas_4: 555460240
+      Werewolf Atlas_40: 2127003050
+      Werewolf Atlas_41: -1172709682
+      Werewolf Atlas_42: -1934656567
+      Werewolf Atlas_43: 772154071
+      Werewolf Atlas_44: 195164699
+      Werewolf Atlas_45: -1088596531
+      Werewolf Atlas_46: 494415606
+      Werewolf Atlas_47: 205063740
+      Werewolf Atlas_48: 482692915
+      Werewolf Atlas_49: -15234610
+      Werewolf Atlas_5: -1499189119
+      Werewolf Atlas_50: -1158497695
+      Werewolf Atlas_51: -1819614052
+      Werewolf Atlas_52: 1814270940
+      Werewolf Atlas_53: -2138658158
+      Werewolf Atlas_54: 146012982
+      Werewolf Atlas_55: -401541155
+      Werewolf Atlas_56: -1919072374
+      Werewolf Atlas_57: -1183897671
+      Werewolf Atlas_58: -25596990
+      Werewolf Atlas_59: 1671595088
+      Werewolf Atlas_6: -508901047
+      Werewolf Atlas_60: -294326200
+      Werewolf Atlas_61: -2094105698
+      Werewolf Atlas_62: -357950727
+      Werewolf Atlas_63: -1675782335
+      Werewolf Atlas_64: -824143737
+      Werewolf Atlas_65: 1531785913
+      Werewolf Atlas_66: -720669871
+      Werewolf Atlas_67: 1802767962
+      Werewolf Atlas_68: -38469835
+      Werewolf Atlas_69: -1030531703
+      Werewolf Atlas_7: 1818600290
+      Werewolf Atlas_70: -1052511036
+      Werewolf Atlas_71: -929832843
+      Werewolf Atlas_72: 463114550
+      Werewolf Atlas_73: -1720281186
+      Werewolf Atlas_74: 392236573
+      Werewolf Atlas_75: 1564288603
+      Werewolf Atlas_76: -1940026332
+      Werewolf Atlas_77: 1704008594
+      Werewolf Atlas_78: -1509107092
+      Werewolf Atlas_79: 113419469
+      Werewolf Atlas_8: -1321387212
+      Werewolf Atlas_80: -1055023856
+      Werewolf Atlas_81: 1830391610
+      Werewolf Atlas_82: -234456029
+      Werewolf Atlas_83: 651161508
+      Werewolf Atlas_84: -1390318408
+      Werewolf Atlas_85: -1021303883
+      Werewolf Atlas_86: 1106913983
+      Werewolf Atlas_87: 643167985
+      Werewolf Atlas_88: -1415984356
+      Werewolf Atlas_89: 979795658
+      Werewolf Atlas_9: 934434598
+      Werewolf Atlas_90: 1028070522
+      Werewolf Atlas_91: -3424858
+      Werewolf Atlas_92: 1250943479
+      Werewolf Atlas_93: -616634409
+      Werewolf Atlas_94: 1135284004
+      Werewolf Atlas_95: -2009374206
+      Werewolf Atlas_96: -1952302064
+      Werewolf Atlas_97: 1541890813
+      Werewolf Atlas_98: -1031398441
+      Werewolf Atlas_99: -940967968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
